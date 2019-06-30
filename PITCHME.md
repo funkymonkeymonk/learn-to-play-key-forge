@@ -16,24 +16,41 @@ You gain aember by card effects or by reaping.
 ---
 
 # Artifacts
+
 ---
+
 # Creatures
+
 ---
+
 # Playing Creatures
+
 The Battleline
+
 ---
+
 # Attack
+
 ---
+
 ## Attack Effects
+
 ## Destroy Effects
+
 ---
+
 Reap
 
 ---
+
 # Action
+
 ---
+
 # Upgrades
+
 ---
+
 # Turn Order
   * Forge A Key
   * Take Your Archives
@@ -41,36 +58,69 @@ Reap
   * Play/Use Cards
   * Ready Exhausted Cards
   * Draw up to Maximum Hand Size
+
 ---
-# Example Of Play
----
-## Joya's Turn
----
-## Flaxia's Turn
----
-##
-* Starting The Game
+
+## Starting The Game
   * Choose Starting Player
   * Draw initial hands
+    * 7 cards for first player, 6 for second player
   * Mulligan
-  * First Player Only Play 1 Card
-* Special Terms
+    * If you mulligan you draw back up to one card less than your starting hand.
+  * First Player Plays 1 Card
+    * All turns after players play as many cards of one house as they please
+
 ---
+
+# Example Of Play
+
+---
+
+## Joya's Turn
+
+---
+
+## Flaxia's Turn
+
+---
+
+# Special Terms
+
+---
+
 ## Exhusted/Stunned
+
 ---
+
 ## Steal/Capture
+
 ---
+
 ## Archives
+
 ---
+
 ## Elusive
+
 ---
+
 ## Skirmish
+
 ---
+
 ## Assault/Hazardous
+
 ---
+
 ## Alpha/Omega
+
 ---
+
 ## Deploy
+
 ---
+
 # General strategy
-Cards plus board
+* Cards plus board
+* If you aren't going to play it, discard it
+* You need aember to win the game
