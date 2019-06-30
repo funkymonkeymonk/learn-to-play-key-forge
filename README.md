@@ -1,5 +1,7 @@
 # Learn to Play Keyforge
 
+[Tutorial](https://gitpitch.com/funkymonkeymonk/learn-to-play-keyforge#/)
+
 ## Rules Walkthrough
 * Point of the game
 * Card types
