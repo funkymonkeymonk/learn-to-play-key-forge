@@ -51,7 +51,7 @@ Reap
 
 ---
 
-# Turn Order
+## Turn Order
   * Forge A Key
   * Take Your Archives
   * Declare A House
@@ -85,6 +85,10 @@ Reap
 ---
 
 # Special Terms
+
+---
+
+## Sacrifice / Destroy / Purge
 
 ---
 
