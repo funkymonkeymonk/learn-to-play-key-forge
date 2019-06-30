@@ -104,7 +104,17 @@ _[Source: Keyforge Compendium](https://keyforge-compendium.com/sets/2-aoa/cards/
 
 +++
 
-## Sacrifice / Destroy / Purge
+### Sacrifice
+
+Put on of your cards into the discard
+
+### Destroy
+
+Put a card into the discard
+
+### Purge
+
+Remove a card from the game
 
 +++
 
