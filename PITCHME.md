@@ -17,11 +17,19 @@ You gain aember by card effects or by reaping.
 _[Source: Keyforge Compendium](https://keyforge-compendium.com/sets/2-aoa/cards/312-sack-of-coins)_
 ---
 
-# Artifacts
+## Artifacts
+
+![Gauntlet of Command](/assets/img/gauntlet_of_command.png)
+
+_[Source: Keyforge Compendium](https://keyforge-compendium.com/sets/2-aoa/cards/10-gauntlet-of-command)_
 
 ---
 
-# Creatures
+## Creatures
+
+![Sanctum Guardian](/assets/img/sanctum_guardian.png)
+
+_[Source: Keyforge Compendium](https://keyforge-compendium.com/sets/2-aoa/cards/262-sanctum-guardian)_
 
 ---
 
@@ -50,8 +58,11 @@ Reap
 
 ---
 
-# Upgrades
+## Upgrades
 
+![Red Planet Ray Gun](/assets/img/red_planet_ray_gun.png)
+
+_[Source: Keyforge Compendium](https://keyforge-compendium.com/sets/2-aoa/cards/187-red-planet-ray-gun)_
 ---
 
 ## Turn Order
