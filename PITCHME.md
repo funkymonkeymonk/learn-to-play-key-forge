@@ -69,8 +69,8 @@ _[Source: Keyforge Compendium](https://keyforge-compendium.com/sets/2-aoa/cards/
 
 ## Turn Order
   * Forge A Key
-  * Take Your Archives
   * Choose A House
+  * Take Your Archives
   * Play/Discard/Use Cards Of The Active House
   * Ready Exhausted Cards
   * Draw up to Maximum Hand Size
@@ -106,7 +106,7 @@ _[Source: Keyforge Compendium](https://keyforge-compendium.com/sets/2-aoa/cards/
 
 ### Sacrifice
 
-Put on of your cards into the discard
+Put one of your cards into the discard
 
 ### Destroy
 
@@ -118,15 +118,35 @@ Remove a card from the game
 
 +++
 
-## Exhusted/Stunned
+### Exhust
+
+Turn a card sideways. It readies during your next ready phase.
+
+### Stunned
+
+Put a stun marker on the creature. The next time it would used the only effect of it being used is the creature exhasts and all stun markers are removed.
 
 +++
 
-## Steal/Capture
+### Steal
+
+Take an aember from your opponent's AEmber pool and put it into your own.
+
+### Capture
+
+Take an aember from your opponent's AEmber pool and put it onto a creature controlled by the capturing player. When that creature leaves play Aember is placed in the opponents AEmber pool.
 
 +++
 
-## Archives
+## Archive
+
+A player’s archives is a facedown game area. After choosing a house the active player is permitted to pick up all cards in their archives and add those cards to their hand.
+
+Cards in a player’s archives are considered out of play.
+
+A player may look at their archives at any time. A player is not permitted to look at an opponent’s archives.
+
+If the ability instructing a player to archive a card does not specify where the card is archived from, the archived card comes from that player’s hand.
 
 +++
 
