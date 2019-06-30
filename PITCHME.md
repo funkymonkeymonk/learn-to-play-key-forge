@@ -15,6 +15,8 @@ You gain aember by card effects or by reaping.
 ![Sack Of Coins](/assets/img/sack_of_coins.png)
 
 _[Source: Keyforge Compendium](https://keyforge-compendium.com/sets/2-aoa/cards/312-sack-of-coins)_
+
+
 ---
 
 ## Artifacts
@@ -68,8 +70,8 @@ _[Source: Keyforge Compendium](https://keyforge-compendium.com/sets/2-aoa/cards/
 ## Turn Order
   * Forge A Key
   * Take Your Archives
-  * Declare A House
-  * Play/Use Cards
+  * Choose A House
+  * Play/Discard/Use Cards Of The Active House
   * Ready Exhausted Cards
   * Draw up to Maximum Hand Size
 
@@ -88,11 +90,11 @@ _[Source: Keyforge Compendium](https://keyforge-compendium.com/sets/2-aoa/cards/
 
 # Example Of Play
 
----
++++
 
 ## Joya's Turn
 
----
++++
 
 ## Flaxia's Turn
 
