@@ -35,16 +35,16 @@ _[Source: Keyforge Compendium](https://keyforge-compendium.com/sets/2-aoa/cards/
 
 ---
 
-# Playing Creatures
+## Playing Creatures
 
 The Battleline
 Flanks
 
 ---
 
-# Attack
+## Attack
 
----
++++
 
 ## Attack Effects
 
@@ -52,11 +52,11 @@ Flanks
 
 ---
 
-Reap
+## Reap
 
 ---
 
-# Action
+## Action
 
 ---
 
@@ -102,39 +102,39 @@ _[Source: Keyforge Compendium](https://keyforge-compendium.com/sets/2-aoa/cards/
 
 # Special Terms
 
----
++++
 
 ## Sacrifice / Destroy / Purge
 
----
++++
 
 ## Exhusted/Stunned
 
----
++++
 
 ## Steal/Capture
 
----
++++
 
 ## Archives
 
----
++++
 
 ## Elusive
 
----
++++
 
 ## Skirmish
 
----
++++
 
 ## Assault/Hazardous
 
----
++++
 
 ## Alpha/Omega
 
----
++++
 
 ## Deploy
 
