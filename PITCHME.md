@@ -5,9 +5,9 @@
 ## Point Of The Game
 The first person to forge **3 keys** wins the game.
 
-Keys are forged by having **6 aember** to forge at the beginning of your turn.
+Keys are forged by having **6 Æmber** to forge at the beginning of your turn.
 
-You gain aember by card effects or by reaping.
+You gain Æmber by card effects or by reaping.
 
 ---
 
@@ -130,11 +130,11 @@ Put a stun marker on the creature. The next time it would used the only effect o
 
 ### Steal
 
-Take an aember from your opponent's AEmber pool and put it into your own.
+Take an Æmber from your opponent's Æmber pool and put it into your own.
 
 ### Capture
 
-Take an aember from your opponent's AEmber pool and put it onto a creature controlled by the capturing player. When that creature leaves play Aember is placed in the opponents AEmber pool.
+Take an Æmber from your opponent's Æmber pool and put it onto a creature controlled by the capturing player. When that creature leaves play Æmber is placed in the opponents Æmber pool.
 
 +++
 
@@ -152,25 +152,54 @@ If the ability instructing a player to archive a card does not specify where the
 
 ## Elusive
 
+The first time a creature with the elusive keyword is attacked each turn, it is dealt no damage and deals no damage to the attacker in the fight. Elusive only stops damage that would be dealt by each creature’s power; damage dealt by keywords or other abilities still applies.
+
 +++
 
 ## Skirmish
 
+When a creature with the skirmish keyword is used to fight, it takes no damage from the opposing creature when the damage from the fight is dealt.
+
+This applies only to damage that would be dealt by the opposing creature’s power, not by damage that is dealt by keywords or other card abilities.
+
 +++
 
-## Assault/Hazardous
+## Assault
+
+When a creature with the assault (X) keyword attacks, it deals damage equal to its assault value (i.e., “X”) to the creature it is fighting before the fight resolves.
+
+## Hazardous
+
+When a creature with the hazardous X keyword is attacked, it deals X damage to the attacking creature before the fight resolves.
 
 +++
 
-## Alpha/Omega
+## Alpha
+
+You can only play this card before doing anything else this step
+
+## Omega
+
+After you play this card end this step.
 
 +++
 
 ## Deploy
 
+This creature can enter play anywhere in your battleline.
+
 ---
 
-# General strategy
+## General strategy
 * Cards plus board
 * If you aren't going to play it, discard it
-* You need aember to win the game
+* You need Æmber to win the game
+
+---
+
+# Resource List
+
+[Keyforge Rulebook](https://op.keyforgegame.com/en/rules/)
+[Keyforge Master Vault](https://www.keyforgegame.com/)
+[Keyforge Compendium](https://keyforge-compendium.com/)
+[Decks Of Keyforge](https://decksofkeyforge.com/)
