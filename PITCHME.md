@@ -141,7 +141,7 @@ Take an Æmber from your opponent's Æmber pool and put it onto a creature contr
 
 +++
 
-## Archive
+### Archive
 
 A player’s archives is a facedown game area. After choosing a house the active player is permitted to pick up all cards in their archives and add those cards to their hand.
 
@@ -153,13 +153,13 @@ If the ability instructing a player to archive a card does not specify where the
 
 +++
 
-## Elusive
+### Elusive
 
 The first time a creature with the elusive keyword is attacked each turn, it is dealt no damage and deals no damage to the attacker in the fight. Elusive only stops damage that would be dealt by each creature’s power; damage dealt by keywords or other abilities still applies.
 
 +++
 
-## Skirmish
+### Skirmish
 
 When a creature with the skirmish keyword is used to fight, it takes no damage from the opposing creature when the damage from the fight is dealt.
 
@@ -167,27 +167,27 @@ This applies only to damage that would be dealt by the opposing creature’s pow
 
 +++
 
-## Assault
+### Assault
 
 When a creature with the assault (X) keyword attacks, it deals damage equal to its assault value (i.e., “X”) to the creature it is fighting before the fight resolves.
 
-## Hazardous
+### Hazardous
 
 When a creature with the hazardous X keyword is attacked, it deals X damage to the attacking creature before the fight resolves.
 
 +++
 
-## Alpha
+### Alpha
 
 You can only play this card before doing anything else this step
 
-## Omega
+### Omega
 
 After you play this card end this step.
 
 +++
 
-## Deploy
+### Deploy
 
 This creature can enter play anywhere in your battleline.
 
@@ -200,9 +200,9 @@ This creature can enter play anywhere in your battleline.
 
 ---
 
-# Resource List
+## Resource List
 
-[Keyforge Rulebook](https://op.keyforgegame.com/en/rules/)
-[Keyforge Master Vault](https://www.keyforgegame.com/)
-[Keyforge Compendium](https://keyforge-compendium.com/)
-[Decks Of Keyforge](https://decksofkeyforge.com/)
+* [Keyforge Rulebook](https://op.keyforgegame.com/en/rules/)
+* [Keyforge Master Vault](https://www.keyforgegame.com/)
+* [Keyforge Compendium](https://keyforge-compendium.com/)
+* [Decks Of Keyforge](https://decksofkeyforge.com/)
