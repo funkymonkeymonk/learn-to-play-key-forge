@@ -42,15 +42,24 @@ _[Source: Keyforge Compendium](https://keyforge-compendium.com/sets/2-aoa/cards/
 ![Xanthyx Harvester](/assets/img/xanthyx_harvester.png)
 
 ---
-![Grovekeeper](/assets/img/grovekeeper.png&size=25%)
+## Fight
 
-![Sanctum Guardian](/assets/img/sanctum_guardian.png&size=25%)
+When a player uses a creature to fight, the player exhausts the creature and chooses an opponent’s creature. Both creatures deal an amount of damage equal to their power value to the opposing creature in the fight, and both are “fighting” for the purposes of card effects.
 
 +++
 
-## Attack Effects
+## Fight Effects
+If the attacker is not destroyed in the fight, fight effects on the attacking creature resolve.
 
 ## Destroy Effects
+Destroy effects take place when a creature is destroyed.
+
++++
+
+### Example
+
+![Dust Imp](/assets/img/dust_imp.png)
+![Sanctum Guardian](/assets/img/sanctum_guardian.png)
 
 ---
 
