@@ -42,8 +42,9 @@ _[Source: Keyforge Compendium](https://keyforge-compendium.com/sets/2-aoa/cards/
 ![Xanthyx Harvester](/assets/img/xanthyx_harvester.png)
 
 ---
+![Grovekeeper](/assets/img/grovekeeper.png&size=25%)
 
-## Attack
+![Sanctum Guardian](/assets/img/sanctum_guardian.png&size=25%)
 
 +++
 
