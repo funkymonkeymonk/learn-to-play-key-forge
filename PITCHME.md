@@ -25,6 +25,12 @@ _[Source: Keyforge Compendium](https://keyforge-compendium.com/sets/2-aoa/cards/
 
 _[Source: Keyforge Compendium](https://keyforge-compendium.com/sets/2-aoa/cards/10-gauntlet-of-command)_
 
++++
+
+## Action
+
+When a card is used to trigger its “Action:” ability, the card exhausts and all “Action:” abilities the card has resolve.
+
 ---
 
 ## Creatures
@@ -69,12 +75,6 @@ When a player uses a creature to reap, the player exhausts the creature, gains 1
 
 ---
 
-## Action
-
-When a creature is used to trigger its “Action:” ability, the creature exhausts and all “Action:” abilities the creature has resolve.
-
----
-
 ## Upgrades
 
 ![Red Planet Ray Gun](/assets/img/red_planet_ray_gun.png)
@@ -100,18 +100,6 @@ _[Source: Keyforge Compendium](https://keyforge-compendium.com/sets/2-aoa/cards/
     * If you mulligan you draw back up to one card less than your starting hand.
   * First Player Plays 1 Card
     * All turns after players play as many cards of one house as they please
-
----
-
-# Example Of Play
-
-+++
-
-## Joya's Turn
-
-+++
-
-## Flaxia's Turn
 
 ---
 
