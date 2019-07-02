@@ -37,8 +37,9 @@ _[Source: Keyforge Compendium](https://keyforge-compendium.com/sets/2-aoa/cards/
 
 ## Playing Creatures
 
-The Battleline
-Flanks
+![Streke](/assets/img/streke.png)
+![Grovekeeper](/assets/img/grovekeeper.png)
+![Xanthyx Harvester](/assets/img/xanthyx_harvester.png)
 
 ---
 
