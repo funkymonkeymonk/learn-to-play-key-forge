@@ -65,9 +65,13 @@ Destroy effects take place when a creature is destroyed.
 
 ## Reap
 
+When a player uses a creature to reap, the player exhausts the creature, gains 1 Æmber for their Æmber pool, and then all “Reap:” abilities on the creature resolve.
+
 ---
 
 ## Action
+
+When a creature is used to trigger its “Action:” ability, the creature exhausts and all “Action:” abilities the creature has resolve.
 
 ---
 
